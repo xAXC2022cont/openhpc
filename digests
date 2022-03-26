@@ -1,0 +1,13 @@
+2.x Series:
+
+    CentOS 8 ‘ohpc-release-2.0’  (aarch64) (md5sum:27681582824037843d9e38dd063c8e57)
+    CentOS 8 ‘ohpc-release-2.0’  (x86_64) (md5sum:2e7924faa925d4f9078749092749242d)
+    Leap 15 ‘ohpc-release-2.0’ (aarch64) (md5sum:7d57d55fc95cf6a49cf1ae9a4a6403cf)
+    Leap 15 ‘ohpc-release-2.0’ (x86_64) (md5sum:156d2919b4659b5f15f7706945527cd2)
+
+1.3.x Series:
+
+    ‘ohpc-release-1.3’ for EL7 (aarch64) (md5sum:16ad76e74b591a3b6dcc3cb8597d3f7d)
+    ‘ohpc-release-1.3’ for EL7 (x86_64) (md5sum:d5139cf3aa83d095e6851628e8a684fa)
+    ‘ohpc-release-1.3’ for SLE_12 (aarch64) (md5sum:706a42f7785952f8b543c501eeec05da)
+    ‘ohpc-release-1.3’ for SLE_12 (x86_64) (md5sum:0a5954a9520e067aeb09e5377e9964a2)
