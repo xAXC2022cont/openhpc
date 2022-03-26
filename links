@@ -1,0 +1,9 @@
+http://repos.openhpc.community/OpenHPC/2/CentOS_8/aarch64/ohpc-release-2-1.el8.aarch64.rpm
+http://repos.openhpc.community/OpenHPC/2/CentOS_8/x86_64/ohpc-release-2-1.el8.x86_64.rpm
+http://repos.openhpc.community/OpenHPC/2/Leap_15/aarch64/ohpc-release-2-1.leap15.aarch64.rpm
+http://repos.openhpc.community/OpenHPC/2/Leap_15/x86_64/ohpc-release-2-1.leap15.x86_64.rpm
+
+https://github.com/openhpc/ohpc/releases/download/v1.3.GA/ohpc-release-1.3-1.el7.aarch64.rpm
+https://github.com/openhpc/ohpc/releases/download/v1.3.GA/ohpc-release-1.3-1.el7.x86_64.rpm
+https://github.com/openhpc/ohpc/releases/download/v1.3.GA/ohpc-release-1.3-1.sle12.aarch64.rpm
+https://github.com/openhpc/ohpc/releases/download/v1.3.GA/ohpc-release-1.3-1.sle12.x86_64.rpm
